@@ -1,1 +1,4 @@
-# Movie_Recommendation_System
+A Python-based recommender that suggests movies based on content and/or collaborative filtering—perfect for learning ML pipelines, similarity metrics, and simple web deployment.The system uses content-based filtering using TF-IDF and cosine similarity on movie metadata (genre, description, keywords, etc.).
+Interactive UI-Streamlit or Flask app for entering a movie name and getting top N recommendations.
+
+The primary objective of this project is to develop a system that can predict and recommend movies to users efficiently. This helps users discover movies they might like without manually searching through vast collections.It implements Content-Based Filtering approach to provide personalized movie recommendations to users.This project employs Content-Based Filtering, a technique that recommends movies by analyzing their attributes and comparing them to movies that a user has previously liked. The goal is to enhance the user experience by providing personalized movie suggestions, reducing the time spent searching for relevant content.
